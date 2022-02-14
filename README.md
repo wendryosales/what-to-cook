@@ -8,7 +8,7 @@ HTML, CSS, and JavaScript group project developed by [Laís Namatela](https://ww
 
 We developed a random recipe suggestions web app fetching for recipes data from the Edman's API. We also implemented a chat-bot to set user preferences.
 
-[Click here](https://raphaelalmeidamartins.github.io/what-to-cook-web-app) to check out the final version of the project on your browser.
+[Click here](https://wendryosales.github.io/whatToCook/index.html) to check out the final version of the project on your browser.
 
 ## :memo: Methodologies
 
